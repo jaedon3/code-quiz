@@ -76,7 +76,7 @@ li {
     margin-left: 10%;
     margin-right: 10%;
     background-color: blueviolet;
-    display: none;
+    display: block;
 }
 
 .quiz-intro p {
@@ -103,7 +103,7 @@ main {
 }
 
 .high-score {
-    display: block;
+    display: none;
 }
 
 .high-score ol {
